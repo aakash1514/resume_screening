@@ -1,0 +1,179 @@
+# =========================
+# Programming Languages
+# =========================
+python
+java
+c++
+c
+javascript
+typescript
+go
+rust
+r
+matlab
+kotlin
+swift
+dart
+php
+bash
+shell scripting
+
+# =========================
+# Machine Learning & AI
+# =========================
+machine learning
+deep learning
+supervised learning
+unsupervised learning
+reinforcement learning
+natural language processing
+nlp
+computer vision
+generative ai
+transformers
+large language models
+llm
+fine tuning
+model deployment
+feature engineering
+model evaluation
+data preprocessing
+time series analysis
+recommendation systems
+
+# =========================
+# ML / AI Frameworks
+# =========================
+scikit-learn
+sklearn
+tensorflow
+keras
+pytorch
+xgboost
+lightgbm
+catboost
+huggingface
+langchain
+opencv
+spacy
+nltk
+gensim
+mlflow
+
+# =========================
+# Data Science & Analytics
+# =========================
+data science
+data analysis
+exploratory data analysis
+eda
+statistical analysis
+hypothesis testing
+a/b testing
+probability
+statistics
+linear regression
+logistic regression
+clustering
+dimensionality reduction
+
+# =========================
+# Data Tools
+# =========================
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+power bi
+tableau
+excel
+google sheets
+jupyter
+notebook
+
+# =========================
+# Databases
+# =========================
+sql
+mysql
+postgresql
+mongodb
+oracle
+sqlite
+redis
+cassandra
+snowflake
+bigquery
+
+# =========================
+# Backend Development
+# =========================
+django
+flask
+fastapi
+spring boot
+node.js
+express.js
+rest api
+graphql
+microservices
+api development
+
+# =========================
+# Frontend Development
+# =========================
+react
+next.js
+angular
+vue.js
+html
+css
+bootstrap
+tailwind css
+material ui
+
+# =========================
+# Mobile Development
+# =========================
+android
+ios
+react native
+flutter
+swiftui
+firebase
+
+# =========================
+# Cloud & DevOps
+# =========================
+aws
+azure
+google cloud
+gcp
+docker
+kubernetes
+terraform
+ci/cd
+jenkins
+github actions
+linux
+unix
+nginx
+
+# =========================
+# Software Engineering Concepts
+# =========================
+data structures
+algorithms
+object oriented programming
+oop
+system design
+design patterns
+unit testing
+integration testing
+test driven development
+tdd
+version control
+git
+agile
+scrum

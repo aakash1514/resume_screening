@@ -1,0 +1,9 @@
+We are looking for a Machine Learning Engineer with strong experience in Python and deep learning frameworks such as PyTorch or TensorFlow.
+
+The candidate should have experience with natural language processing, transformers, and large language models.
+
+Experience in building REST APIs using FastAPI or Flask is required.
+
+Knowledge of Docker, AWS, and CI/CD pipelines is a plus.
+
+Familiarity with SQL and PostgreSQL databases is preferred.
